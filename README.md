@@ -1,7 +1,7 @@
 # Everybody Codes Solutions (everybody-codes-solutions)
 
 My solutions to Everybody Codes programming puzzles 
-(<https://adventofcode.com/>). 
+(<https://everybody.codes/>). 
 
 ## Prerequisites:
 
